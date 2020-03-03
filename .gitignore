@@ -29,3 +29,7 @@ a.out
 *.img
 *.iso
 *.dll
+
+.vscode
+.DS_Store
+/.metals/
